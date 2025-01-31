@@ -12,5 +12,5 @@ command = "npm run build"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "count"
-database_id = "08323087-a0a9-44cb-a940-c82df8945a47"
+database_name = "moe-counter"
+database_id = "ff3ee302-5119-464f-82e6-752a85d37b74"
